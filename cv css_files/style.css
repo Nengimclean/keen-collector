@@ -1,0 +1,44 @@
+.cv1{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+    color: purple;
+}
+.heading-2{
+    font-size: 16px;
+    font-style: oblique
+}
+#email{
+    color: chocolate;
+    text-align: center;
+}
+#para-1{
+    text-align: center;
+}
+#para-2{
+    font-style: normal;
+}
+#para-3{
+    font-style: normal;
+}
+#para-4{
+    font-style: normal;
+}
+.heading-3{
+    font-size: 16px;
+    font-style: oblique;
+}
+#para-5{
+    font-style: normal;
+}
+.heading-4{
+    font-size: 16px;
+    font-style: oblique
+}
+.cv2{
+    border: 2px solid cornflowerblue;
+    margin-top: 10%;
+    width: 700px;
+    padding-left: 50px;
+    margin-left: 500px
+}

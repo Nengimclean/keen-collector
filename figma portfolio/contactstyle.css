@@ -1,0 +1,50 @@
+
+.contact {
+    width: 120px;
+    height: 40px;
+
+    border: 2px solid black;
+    font-weight: bolder;
+    padding: 20px;
+    margin-left: 700px;
+    
+}
+p {
+    padding: 20px;
+    margin: 30px;
+    margin-left: 400px;
+    width: 800px;
+}
+.input-1 {
+    border-top: none;
+    border-right: none;
+    width: 300px;
+}
+.input-2 {
+    border-top: none;
+    border-right: none;
+    width: 300px;
+}
+.input-3 {
+    border-top: none;
+    border-right: none;
+    width: 300px;
+}
+.input-4 {
+    border-top: none;
+    border-right: none;
+    width: 300px;
+    height: 80px;
+}
+.empty {
+    width: 1572px;
+    height: 105px;
+    background-color: black;
+    margin-top: 150px;
+}
+* {
+    text-align: center;
+    background-image: url(http://getwallpapers.com/wallpaper/full/2/c/9/14780.jpg);
+    
+    /* background-color: thistle; */
+}

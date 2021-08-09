@@ -1,0 +1,82 @@
+.container1  {
+    width: 500px;
+    height: 600px;
+    background-color: darkgrey;
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.container2 {
+    width: 550px;
+    height: 600px;
+    background-color: black;
+    margin-right: 60px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+a {
+    margin-left: 25px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.line1 {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.line2 {
+    margin-left: 100px;
+    
+}
+.line3 {
+    margin-left: 100px;
+    color: grey;
+}
+.proj2 {
+    margin-left: 100px;
+    border-radius: 5px;
+}
+/* ul {
+    display: flex;
+}
+li {
+    color: white;
+    list-style: none;
+} 
+.about {
+    margin: 25px;
+    margin-left: 10px;
+    padding: 20px;
+}
+.skills {
+    margin: 25px;
+    margin-left: 10px;
+    padding: 20px;
+}
+.proj {
+    margin: 25px;
+    margin-left: 10px;
+    padding: 20px;
+}*/
+.butt {
+    height: 30px;
+    width: 100px;
+    margin-top: 45px;
+    margin-left: 20px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+} 
+.image1 {
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.logo {
+    padding: 10px;
+    
+}
+.lists {
+    margin: 25px;
+    color: white;
+}

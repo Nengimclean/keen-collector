@@ -1,0 +1,50 @@
+/* * {
+    background-color: darkgrey;
+}  */
+.container-fluid {
+    margin: 20px;
+    background-image: url(http://getwallpapers.com/wallpaper/full/2/c/9/14780.jpg);
+
+}
+.ab {
+    width: 120px;
+    height: 40px;
+    border: 2px solid black;
+    margin-left: 700px;
+    text-align: center;
+}
+.about1 {
+    width: 700px;
+    text-align: center;
+    margin-left: 400px;
+}
+.row {
+    display: flex;
+}
+h2 {
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+p {
+    margin: 30px;
+}
+.maint {
+    text-align: center;
+}
+.xp {
+    width: 130px;
+    height: 25px;
+    border: 2px solid black;
+    border-top: none;
+    border-bottom: none;
+    text-align: center;
+    justify-content: center;
+    margin-left: 690px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.maint2 {
+    width: 700px;
+    margin-left: 400px;
+}

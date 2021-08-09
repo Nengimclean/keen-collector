@@ -1,0 +1,65 @@
+.container {
+    border: 2px solid darkgrey;
+    width: 900px; 
+    height: 700px;
+    background-color: white;
+}
+ .nav-1 {
+    display: flex;
+    color: black;
+    font-family: Comfortaa;
+    font-style: Bold;
+    Font: size 96px;
+    line-height: 173px;
+    line-height: 180%;
+    vertical-align: Top;
+}
+ul {
+    display: flex;
+}
+li {
+    list-style: none;
+}
+#about {
+    padding-left: 600px;
+    padding-right: 20px;
+}
+#proj {
+    padding-right: 20px;
+}
+#contact {
+    padding-right: 20px;
+}
+.title {
+    font-family: Nunito;
+    font-style: Regular;
+    Font-size: 40px;
+    line-height: 144px;
+    line-height: 100%;
+
+    vertical-align: Top;
+    color: yellow;
+    width: 160px;
+    height: 80px;
+    margin: 30px;
+}
+.para-1 {
+    Font-family: Nunito;
+    Font-style: Regular;
+    Font-size: 25px;
+    Line-height: 216px;
+    Line-height: 150%;
+    Vertical-align: Top;
+    width: 800px;
+    height: 400px;
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+}
+.proj-2 {
+    background-color: yellow;
+}
+.buttons {
+    text-align: left;
+    margin: 30px;
+}
